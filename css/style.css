@@ -589,12 +589,20 @@ body{
 .body-tv{
     background-color: #08080D;
 }
-
 /* Maintenance */
+.body-maintenance{
+    background-color: #08080D;
+}
+/* currency */
+.body-currency{
+    background-color: #08080D;
+}
+
+
 
 /* Ask */
 
-/* currency */
+
 
 
 /* DESKTOP VER */
