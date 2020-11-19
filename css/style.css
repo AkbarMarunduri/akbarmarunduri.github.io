@@ -293,10 +293,10 @@ body{
     opacity: 1;
 }
 .poliotxt{
-    width: 300px;
+    /* width: 300px; */
     font-size: 20px;
     opacity: 0;
-    transform: translate(50px, 0);
+    transform: translate(-50px, 0);
     transition: .5s;
 }
 
@@ -309,7 +309,7 @@ body{
     font-size: 12px;
     line-height: 18px;
     color: #BCBABC;
-    width: 180px;
+    /* width: 180px; */
     opacity: 0;
     transform: translate(-50px, 0);
     transition: .8s;
@@ -328,7 +328,7 @@ body{
 .portfolio .more{
     opacity: 0;
     transition: 1s;
-    transform: translate(50px,0);
+    transform: translate(-50px,0);
 }
 
 .portfolio .more.port-more-anim{
